@@ -30,7 +30,7 @@ A Alicia le pareció que esto era innegable, de forma que intentó preguntarle a
 
 
 
-{{< figure src="/images/imagen1.png" alt="Mi descripción" >}}
+{{< figure src="/blog/images/imagen1.png" alt="Mi descripción" >}}
 
 
 
