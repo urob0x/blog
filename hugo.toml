@@ -6,6 +6,7 @@ theme = "hugo-blog-awesome"
 [params]
   intro = true
   description = "A minimalistic Hugo theme with light and dark mode support, for running a personal site or blog"
+  customCSS = ["css/custom.css"]
 
   # Agrupamos todo aquí para que el tema lo encuentre
   [params.author]
@@ -32,6 +33,3 @@ theme = "hugo-blog-awesome"
     name = "About"
     url = "/about/"
     weight = 3
-
-[params]
-  customCSS = ["css/custom.css"]
