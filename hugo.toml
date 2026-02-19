@@ -10,8 +10,9 @@ theme = "hugo-blog-awesome"
 
   # Agrupamos todo aquí para que el tema lo encuentre
   [params.author]
-    name = "Awesome hugo blog"    # El título grande
-    avatar = "images/avatar.png"  # La foto (verifica que sea .png)
+    name = "Awesome hugo blog"
+    intro = "¡Hola! Bienvenido a mi blog"
+    avatar = "images/avatar.png"
     email = "70809010@protonmail.com"
 
 [markup.goldmark.renderer]
