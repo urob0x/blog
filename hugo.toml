@@ -32,3 +32,6 @@ theme = "hugo-blog-awesome"
     name = "About"
     url = "/about/"
     weight = 3
+
+[params]
+  customCSS = ["css/custom.css"]
