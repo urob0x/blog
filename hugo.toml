@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://urob0x.github.io/blog/"
 languageCode = "es-es"
 title = "Awesome hugo blog"
 theme = "hugo-blog-awesome"
