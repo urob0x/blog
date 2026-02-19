@@ -6,7 +6,7 @@ title = 'El Descenso por la Madriguera'
 
 
 
-El Gato sonrió al ver a Alicia...
+El Gato sonrió al ver a Alicia.
 
 Parecía tener buen carácter, consideró Alicia; pero también tenía unas uñas muy largas y un gran número de dientes, de forma que pensó que convendría tratarlo con el debido respeto.
 
@@ -30,7 +30,7 @@ A Alicia le pareció que esto era innegable, de forma que intentó preguntarle a
 
 
 
-{{< figure src="/blog/images/imagen1.png" alt="Mi descripción" >}}
+{{< figure src="/blog/images/imagen1.png" >}}
 
 
 
