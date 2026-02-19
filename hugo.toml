@@ -1,0 +1,34 @@
+baseURL = "http://localhost:1313/"
+languageCode = "es-es"
+title = "Awesome hugo blog"
+theme = "hugo-blog-awesome"
+
+[params]
+  intro = true
+  description = "A minimalistic Hugo theme with light and dark mode support, for running a personal site or blog"
+
+  # Agrupamos todo aquí para que el tema lo encuentre
+  [params.author]
+    name = "Awesome hugo blog"    # El título grande
+    avatar = "images/avatar.png"  # La foto (verifica que sea .png)
+    email = "70809010@protonmail.com"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
